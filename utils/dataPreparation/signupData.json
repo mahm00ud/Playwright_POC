@@ -1,0 +1,10 @@
+{
+    "name": "test-user",
+    "password": "testPassword",
+    "address": "Address, Country1",
+    "countries":["India", "United States", "Canada","Australia"],
+    "city": "testCity",
+    "state": "testState",
+    "zipcode": "123123",
+    "mobileNumber": "12344556"
+}

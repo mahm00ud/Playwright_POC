@@ -1,0 +1,11 @@
+{
+    "validCustomer":{
+        "username": "test1@test1.comm",
+        "password": "test1@test1.comm"
+    },
+    "invalidCustomer":{
+        "username": "test1@test1222222.comm",
+        "password": "test1@test1.comm"
+    }
+
+}
